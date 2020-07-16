@@ -9,7 +9,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [@Hanamichi_X](https://t.me/Hanamichi_X).
 - 😄 Pronouns: He / Him .
-- 🎮 Game life: I'm an all-platformer (Nintendo Switch, PS4, XBOX, Steam), prefer arpg and act, and have a soft spot for solus like games.
+- 🎮 Game life: I'm an all-platformer (Nintendo Switch, PS4, XBOX, Steam), prefer ARPG and ACT, and have a soft spot for Souls Like games.
 
 <!--
 **x893675/x893675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
