@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/macOS-catalina-d0d1d4)
+![](https://img.shields.io/badge/Go-1.14.4-1cadd5)
+![](https://img.shields.io/badge/Rust-1.44.1-orange)
+
 - 🔭 I’m currently working for `Kubernetes`.
 - 🌱 I’m currently learning `distributed system`, `rust`.
 - 💬 Ask me about anything
