@@ -1,6 +1,6 @@
-### Hi there 👋
+<img src="https://github.com/x893675/x893675/blob/master/img/cat.gif" width="100">
 
-![](img/cat.gif)
+### Hi there 👋
 
 ![](https://img.shields.io/badge/macOS-catalina-d0d1d4)
 ![](https://img.shields.io/badge/Go-1.14.4-1cadd5)
