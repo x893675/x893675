@@ -27,3 +27,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<!-- waka-box start -->
+<!-- waka-box end -->
+
+[powered by waka-box-go](https://github.com/x893675/waka-box-go)
+
+</td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+<!-- steam-box end -->
+
+[powered by steam-box](https://github.com/x893675/steam-box)
+
+</td>
+</tr>
+</table>
