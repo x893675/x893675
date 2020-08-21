@@ -51,13 +51,11 @@ JSON            🕓 17m    ▎░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Dota 2                           🕘 1232 hrs 36 mins
-🎮 DARK SOULS™ III                  🕘 279 hrs 16 mins
-🚓 Grand Theft Auto V               🕘 79 hrs 36 mins
-🌏 Sid Meier's Civilization V       🕘 27 hrs 13 mins
-🎮 Borderlands 2                    🕘 22 hrs 28 mins
+💻 Wallpaper Engine                 🕘 0 hrs 40 mins
+🎮 Risk of Rain 2                   🕘 11 hrs 31 mins
+🎮 Torchlight II                    🕘 0 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
