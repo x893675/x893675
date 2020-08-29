@@ -54,6 +54,8 @@ YAML            🕓 0s     ░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                 🕘 0 hrs 52 mins
+🎮 Risk of Rain 2                   🕘 0 hrs 4 mins
+🎮 Gunfire Reborn                   🕘 0 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
