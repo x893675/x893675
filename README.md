@@ -53,7 +53,6 @@ Markdown        🕓 14m    ▏░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                 🕘 0 hrs 52 mins
 🎮 Risk of Rain 2                   🕘 2 hrs 20 mins
 🎮 Gunfire Reborn                   🕘 0 hrs 17 mins
 ```
