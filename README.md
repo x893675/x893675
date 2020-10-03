@@ -53,7 +53,7 @@ Makefile   🕓 9m     ▏░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Risk of Rain 2                   🕘 1 hrs 11 mins
+🎮 Risk of Rain 2                   🕘 0 hrs 11 mins
 🎮 Hades                            🕘 1 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
