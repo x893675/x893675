@@ -53,7 +53,7 @@ YAML            🕓 9m     ▏░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Dota 2                           🕘 0 hrs 54 mins
+🎮 Dota 2                           🕘 0 hrs 36 mins
 💻 Wallpaper Engine                 🕘 1 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
