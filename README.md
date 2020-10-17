@@ -53,7 +53,7 @@ Makefile        🕓 24m    ▎░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Dota 2                           🕘 12 hrs 4 mins
+🎮 Dota 2                           🕘 13 hrs 50 mins
 💻 Wallpaper Engine                 🕘 1 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
