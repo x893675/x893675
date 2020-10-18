@@ -53,8 +53,9 @@ SQL      🕓 24m    ▍░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Dota 2                           🕘 15 hrs 14 mins
+🎮 Dota 2                           🕘 15 hrs 24 mins
 💻 Wallpaper Engine                 🕘 1 hrs 16 mins
+🎮 Hades                            🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
