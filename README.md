@@ -54,7 +54,6 @@ HTML       🕓 24m    ▊░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Dota 2                           🕘 22 hrs 0 mins
-💻 Wallpaper Engine                 🕘 0 hrs 16 mins
 🎮 Hades                            🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
