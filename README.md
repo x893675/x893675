@@ -53,7 +53,7 @@ Makefile        🕓 24m   ▌░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 DARK SOULS™ III                  🕘 3 hrs 33 mins
+🎮 DARK SOULS™ III                  🕘 3 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
