@@ -49,7 +49,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Yu-Gi-Oh! Duel Links             🕘 22 hrs 29 mins
+🎮 Yu-Gi-Oh! Duel Links             🕘 24 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
