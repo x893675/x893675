@@ -53,7 +53,7 @@ INI      🕓 47m   █▊░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Yu-Gi-Oh! Duel Links             🕘 53 hrs 52 mins
+🎮 Yu-Gi-Oh! Duel Links             🕘 54 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
