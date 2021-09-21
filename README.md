@@ -53,7 +53,7 @@ Makefile 🕓 1m     ░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Yu-Gi-Oh! Duel Links             🕘 83 hrs 42 mins
+🎮 Yu-Gi-Oh! Duel Links             🕘 82 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
