@@ -53,7 +53,7 @@ Other    🕓 0s     ░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Yu-Gi-Oh! Duel Links             🕘 53 hrs 24 mins
+🎮 Yu-Gi-Oh! Duel Links             🕘 52 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
