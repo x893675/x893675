@@ -45,4 +45,4 @@ jobs:
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
           git log -1
-          git pull origin master && git push master
+          git push origin master
