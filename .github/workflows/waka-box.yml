@@ -40,6 +40,9 @@ jobs:
         run: |-
           ./waka
           git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
+          git remote -v
+          git branch -av
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
+          git log -1
           git pull master && git push master
