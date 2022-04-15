@@ -53,7 +53,7 @@ JSON           🕓 14m  ▋░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 ELDEN RING                       🕘 13 hrs 55 mins
+🎮 ELDEN RING                       🕘 9 hrs 55 mins
 💻 Wallpaper Engine                 🕘 0 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
