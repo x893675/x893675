@@ -53,8 +53,7 @@ JSON       🕓 1h14m █▏░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 ELDEN RING                       🕘 4 hrs 8 mins
-🎮 Mirror 2: Project X              🕘 1 hrs 35 mins
+🎮 ELDEN RING                       🕘 3 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
