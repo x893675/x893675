@@ -55,7 +55,6 @@ Gettext Catalog 🕓 7m    ▏░░░░░░░░░░░░░░░░�
 ```text
 🎮 Dota 2                           🕘 0 hrs 53 mins
 🎮 Yu-Gi-Oh! Duel Links             🕘 0 hrs 24 mins
-🎮 ELDEN RING                       🕘 3 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
