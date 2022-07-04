@@ -9,7 +9,6 @@
 - 🔭 I’m currently working for `Kubernetes`.
 - 🌱 I’m currently learning `distributed system`, `rust`.
 - 💬 Ask me about anything
-- 📫 How to reach me: [@Hanamichi_X](https://t.me/Hanamichi_X).
 - 😄 Pronouns: He / Him .
 - 🎮 Game life: I'm an all-platformer (Nintendo Switch, PS4, XBOX, Steam), prefer ARPG and ACT, and have a soft spot for Souls Like games.
 
