@@ -50,7 +50,7 @@ Bash 🕓 3m    █▏░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 ASTLIBRA ～生きた証～ Revision   🕘 10 hrs 31 mins
+🎮 ASTLIBRA ～生きた証～ Revision   🕘 15 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
