@@ -52,7 +52,7 @@ Other              🕓 5m    ▏░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                 🕘 0 hrs 55 mins
+🚫 啊哦，最近好像没有玩过游戏呢
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
