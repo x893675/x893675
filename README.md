@@ -54,6 +54,7 @@ Smarty             🕓 23m    ▎░░░░░░░░░░░░░░░�
 ```text
 🎮 Dota 2                           🕘 3 hrs 50 mins
 🎮 ELDEN RING                       🕘 0 hrs 41 mins
+🎮 Resident Evil 2                  🕘 0 hrs 45 mins
 🎮 3DMark                           🕘 0 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
