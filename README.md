@@ -53,7 +53,7 @@ Text               🕓 11m    ▏░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Dota 2                           🕘 3 hrs 50 mins
-🎮 ELDEN RING                       🕘 4 hrs 43 mins
+🎮 ELDEN RING                       🕘 6 hrs 44 mins
 🎮 Resident Evil 2                  🕘 2 hrs 39 mins
 🎮 3DMark                           🕘 0 hrs 26 mins
 ```
