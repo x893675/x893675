@@ -53,7 +53,7 @@ Cheetah            🕓 8m    ▎░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Dota 2                           🕘 0 hrs 53 mins
-🎮 ELDEN RING                       🕘 29 hrs 4 mins
+🎮 ELDEN RING                       🕘 31 hrs 38 mins
 🎮 Resident Evil 2                  🕘 2 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
