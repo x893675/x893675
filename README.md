@@ -53,7 +53,8 @@ go.mod            🕓 20m   ▍░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Dota 2                           🕘 0 hrs 38 mins
-🎮 ELDEN RING                       🕘 46 hrs 22 mins
+🎮 DARK SOULS™ III                  🕘 0 hrs 8 mins
+🎮 ELDEN RING                       🕘 48 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
