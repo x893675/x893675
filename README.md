@@ -54,7 +54,7 @@ JSON     🕓 8m    ▌░░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Dota 2                           🕘 0 hrs 38 mins
 🎮 DARK SOULS™ III                  🕘 0 hrs 8 mins
-🎮 ELDEN RING                       🕘 18 hrs 7 mins
+🎮 ELDEN RING                       🕘 19 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
