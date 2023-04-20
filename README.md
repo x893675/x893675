@@ -53,8 +53,7 @@ Markdown 🕓 1m    ▍░░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Dota 2                           🕘 1 hrs 40 mins
-🎮 DARK SOULS™ III                  🕘 0 hrs 8 mins
-🎮 ELDEN RING                       🕘 8 hrs 0 mins
+🎮 ELDEN RING                       🕘 4 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
