@@ -52,7 +52,7 @@ Bash               🕓 20m   █▎░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Dota 2                           🕘 14 hrs 11 mins
+🎮 Dota 2                           🕘 12 hrs 4 mins
 🎮 ELDEN RING                       🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
