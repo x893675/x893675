@@ -53,7 +53,7 @@ INI                🕓 12m    ▏░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Dota 2                           🕘 4 hrs 42 mins
-🎮 ARMORED CORE™ VI FIRES OF RUBICON™ 🕘 6 hrs 36 mins
+🎮 ARMORED CORE™ VI FIRES OF RUBICON™ 🕘 14 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
