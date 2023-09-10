@@ -52,8 +52,8 @@ JSON               🕓 20m   ▍░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Dota 2                           🕘 5 hrs 41 mins
-🎮 ARMORED CORE™ VI FIRES OF RUBICON™ 🕘 13 hrs 29 mins
+🎮 Dota 2                           🕘 2 hrs 41 mins
+🎮 ARMORED CORE™ VI FIRES OF RUBICON™ 🕘 7 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
