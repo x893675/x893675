@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/02306cfa1b532bd1a8432087894ced2a" target="_blank">📊 每周工作报告</a>
 ```text
-Still Gathering Statistics...
+INI  🕓 1h17m █████████████████████▌░░░░░░░░░░░░ 63.3%
+Bash 🕓 45m   ████████████▍░░░░░░░░░░░░░░░░░░░░░ 36.7%
 ```
 <!-- Powered by https://github.com/x893675/waka-box-go . -->
 <!-- waka-box end -->
