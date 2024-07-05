@@ -52,7 +52,7 @@ Shell Script       🕓 12m    ▏░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 ELDEN RING                       🕘 38 hrs 31 mins
+🎮 ELDEN RING                       🕘 36 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
