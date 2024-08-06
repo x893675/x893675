@@ -53,8 +53,9 @@ YAML         🕓 30m   █▏░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 ELDEN RING                       🕘 0 hrs 44 mins
-🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 0 hrs 33 mins
-🎮 Brotato                          🕘 0 hrs 16 mins
+🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 1 hrs 1 mins
+🎮 Wandering Sword                  🕘 0 hrs 33 mins
+🎮 Brotato                          🕘 0 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
