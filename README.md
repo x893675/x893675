@@ -54,8 +54,8 @@ Cheetah      🕓 42m   █▊░░░░░░░░░░░░░░░░�
 ```text
 🎮 ELDEN RING                       🕘 0 hrs 44 mins
 🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 2 hrs 29 mins
+🎮 Brotato                          🕘 0 hrs 37 mins
 🎮 Wandering Sword                  🕘 0 hrs 33 mins
-🎮 Brotato                          🕘 0 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
