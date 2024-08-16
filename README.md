@@ -53,9 +53,10 @@ XML            🕓 7m    ▏░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 ELDEN RING                       🕘 0 hrs 44 mins
-🎮 Brotato                          🕘 8 hrs 37 mins
+🎮 Brotato                          🕘 9 hrs 26 mins
 🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 2 hrs 29 mins
 🎮 Wandering Sword                  🕘 0 hrs 33 mins
+🎮 Black Myth: Wukong Benchmark Tool 🕘 0 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
