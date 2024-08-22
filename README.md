@@ -52,9 +52,9 @@ Shell Script 🕓 0s     ░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Brotato                          🕘 10 hrs 27 mins
+🎮 Brotato                          🕘 9 hrs 27 mins
+🎮 Black Myth: Wukong               🕘 6 hrs 53 mins
 🎮 Phoenix Wright: Ace Attorney Trilogy 🕘 1 hrs 32 mins
-🎮 Black Myth: Wukong               🕘 3 hrs 14 mins
 🎮 Salt and Sanctuary               🕘 0 hrs 37 mins
 🎮 Wandering Sword                  🕘 0 hrs 12 mins
 ```
