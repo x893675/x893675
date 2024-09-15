@@ -52,8 +52,7 @@ Text                     🕓 10m    ▏░░░░░░░░░░░░  1.
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Black Myth: Wukong               🕘 6 hrs 30 mins
-🎮 Brotato                          🕘 2 hrs 15 mins
+🎮 Brotato                          🕘 1 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
