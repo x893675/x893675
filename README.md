@@ -53,7 +53,7 @@ Makefile       🕓 26m    ▍░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Brotato                          🕘 0 hrs 15 mins
-🎮 Shin Megami Tensei V: Vengeance  🕘 8 hrs 55 mins
+🎮 Shin Megami Tensei V: Vengeance  🕘 11 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
