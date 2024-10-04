@@ -52,6 +52,7 @@ Dockerfile         🕓 28m   ▌░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
+🎮 Black Myth: Wukong               🕘 0 hrs 24 mins
 🎮 Shin Megami Tensei V: Vengeance  🕘 32 hrs 38 mins
 🎮 Brotato                          🕘 0 hrs 15 mins
 ```
