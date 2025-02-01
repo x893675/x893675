@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/02306cfa1b532bd1a8432087894ced2a" target="_blank">📊 每周工作报告</a>
 ```text
-Protocol Buffer 🕓 2h3m  ███████████▊░░░░░░░░░░░ 51.5%
-Go              🕓 1h56m ███████████▏░░░░░░░░░░░ 48.5%
+Protocol Buffer 🕓 17m ███████████████▋░░░░░░░░░ 63.0%
+Go              🕓 10m █████████▎░░░░░░░░░░░░░░░ 37.0%
 ```
 <!-- Powered by https://github.com/x893675/waka-box-go . -->
 <!-- waka-box end -->
