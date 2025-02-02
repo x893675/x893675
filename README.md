@@ -49,8 +49,8 @@ Go              🕓 10m █████████▎░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Dota 2                           🕘 0 hrs 10 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 1 hrs 17 mins
+🎮 Dota 2                           🕘 0 hrs 11 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 2 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
