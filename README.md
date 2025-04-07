@@ -52,7 +52,7 @@ Other     🕓 0s     ░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 AI Limit                         🕘 5 hrs 11 mins
+🎮 AI Limit                         🕘 15 hrs 56 mins
 🎮 Split Fiction                    🕘 1 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
