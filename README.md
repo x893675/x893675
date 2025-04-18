@@ -53,7 +53,7 @@ TypeScript 🕓 17m    ▎░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 AI Limit                         🕘 31 hrs 23 mins
-🎮 Split Fiction                    🕘 1 hrs 14 mins
+🎮 Split Fiction                    🕘 0 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
