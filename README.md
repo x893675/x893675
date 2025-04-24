@@ -52,7 +52,7 @@ TOML            🕓 34m    ▍░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 AI Limit                         🕘 9 hrs 15 mins
+🎮 AI Limit                         🕘 7 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
