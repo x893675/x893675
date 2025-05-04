@@ -52,8 +52,8 @@ Other                    🕓 22m   ▊░░░░░░░░░░░░░  
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 AI Limit                         🕘 2 hrs 19 mins
-🎮 Clair Obscur: Expedition 33      🕘 0 hrs 2 mins
+🎮 AI Limit                         🕘 0 hrs 19 mins
+🎮 Clair Obscur: Expedition 33      🕘 2 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
