@@ -52,8 +52,7 @@ Jinja2     🕓 33m    ▎░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 DARK SOULS™ III                  🕘 1 hrs 29 mins
-🎮 Lies of P                        🕘 0 hrs 57 mins
+🎮 DARK SOULS™ III                  🕘 2 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
