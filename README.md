@@ -54,6 +54,7 @@ Jinja2          🕓 1h6m   ▊░░░░░░░░░░░░░░░░�
 ```text
 🎮 DARK SOULS™ III                  🕘 12 hrs 21 mins
 🎮 DARK SOULS™: REMASTERED          🕘 0 hrs 46 mins
+🎮 The First Berserker: Khazan      🕘 2 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
