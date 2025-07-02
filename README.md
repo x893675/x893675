@@ -52,9 +52,9 @@ Docker          🕓 1h27m █▏░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 DARK SOULS™ III                  🕘 12 hrs 21 mins
+🎮 DARK SOULS™ III                  🕘 11 hrs 21 mins
 🎮 DARK SOULS™: REMASTERED          🕘 0 hrs 46 mins
-🎮 The First Berserker: Khazan      🕘 2 hrs 22 mins
+🎮 The First Berserker: Khazan      🕘 4 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
