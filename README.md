@@ -52,7 +52,7 @@ Python   🕓 1h5m   █░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 DARK SOULS™ III                  🕘 7 hrs 21 mins
+🎮 DARK SOULS™ III                  🕘 5 hrs 21 mins
 🎮 DARK SOULS™: REMASTERED          🕘 0 hrs 46 mins
 🎮 The First Berserker: Khazan      🕘 4 hrs 49 mins
 ```
