@@ -53,7 +53,7 @@ Bash            🕓 1h4m   ▌░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 DARK SOULS™ III                  🕘 5 hrs 21 mins
-🎮 The First Berserker: Khazan      🕘 5 hrs 33 mins
+🎮 The First Berserker: Khazan      🕘 6 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
