@@ -52,7 +52,7 @@ YAML       🕓 1h6m   ▊░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Shape of Dreams                  🕘 3 hrs 6 mins
+🎮 Shape of Dreams                  🕘 3 hrs 16 mins
 🎮 Shape of Dreams Demo             🕘 1 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
