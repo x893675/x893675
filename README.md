@@ -53,7 +53,7 @@ Makefile   🕓 21m    ▎░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                 🕘 0 hrs 12 mins
-🎮 Shape of Dreams                  🕘 17 hrs 33 mins
+🎮 Shape of Dreams                  🕘 18 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
