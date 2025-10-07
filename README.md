@@ -52,7 +52,7 @@ Markdown   🕓 8m    ▊░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Shape of Dreams                  🕘 22 hrs 32 mins
+🎮 Shape of Dreams                  🕘 25 hrs 25 mins
 💻 Wallpaper Engine                 🕘 0 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
