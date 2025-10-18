@@ -52,7 +52,7 @@ TOML       🕓 1h49m  █▍░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Shape of Dreams                  🕘 9 hrs 8 mins
+🎮 Shape of Dreams                  🕘 6 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
