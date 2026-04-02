@@ -55,8 +55,8 @@ TOML       🕓 45m   ▉░░░░░░░░░░░░░░░░░░�
 🎮 AI Limit                         🕘 9 hrs 23 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 7 hrs 33 mins
 🎮 Baldur's Gate 3                  🕘 1 hrs 2 mins
+🎮 Slay the Spire 2                 🕘 0 hrs 49 mins
 🎮 Disco Elysium                    🕘 0 hrs 34 mins
-🎮 Slay the Spire 2                 🕘 0 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
