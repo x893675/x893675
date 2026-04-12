@@ -52,11 +52,9 @@ Text                     🕓 2h22m █▍░░░░░░░░░░░░ 1
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 AI Limit                         🕘 4 hrs 23 mins
-🎮 Sekiro™: Shadows Die Twice       🕘 11 hrs 19 mins
+🎮 Sekiro™: Shadows Die Twice       🕘 11 hrs 23 mins
 🎮 Slay the Spire 2                 🕘 1 hrs 29 mins
-🎮 Baldur's Gate 3                  🕘 1 hrs 2 mins
-🎮 Disco Elysium                    🕘 0 hrs 34 mins
+🎮 Banner of the Maid               🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
