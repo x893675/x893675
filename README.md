@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 ```text
 Go                       🕓 6h58m ███▊░░░░░░░░░░ 27.0%
 Markdown                 🕓 3h4m  █▋░░░░░░░░░░░░ 11.9%
-YAML                     🕓 2h51m █▌░░░░░░░░░░░░ 11.0%
+YAML                     🕓 2h51m █▌░░░░░░░░░░░░ 11.1%
 Text                     🕓 2h41m █▍░░░░░░░░░░░░ 10.4%
-Other                    🕓 2h36m █▍░░░░░░░░░░░░ 10.1%
+Other                    🕓 2h37m █▍░░░░░░░░░░░░ 10.1%
 ```
 <!-- Powered by https://github.com/x893675/waka-box-go . -->
 <!-- waka-box end -->
