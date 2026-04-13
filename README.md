@@ -52,7 +52,7 @@ Other                    🕓 2h36m █▍░░░░░░░░░░░░ 1
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Sekiro™: Shadows Die Twice       🕘 11 hrs 23 mins
+🎮 Sekiro™: Shadows Die Twice       🕘 14 hrs 51 mins
 🎮 Slay the Spire 2                 🕘 1 hrs 29 mins
 🎮 Banner of the Maid               🕘 0 hrs 3 mins
 ```
