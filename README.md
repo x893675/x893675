@@ -54,7 +54,6 @@ Other                    🕓 2h37m █▍░░░░░░░░░░░░ 1
 ```text
 🎮 Sekiro™: Shadows Die Twice       🕘 14 hrs 51 mins
 🎮 Slay the Spire 2                 🕘 1 hrs 29 mins
-🎮 Banner of the Maid               🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
