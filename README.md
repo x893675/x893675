@@ -53,7 +53,7 @@ Markdown                 🕓 2h8m   ▉░░░░░░░░░░░░  7.
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Sekiro™: Shadows Die Twice       🕘 14 hrs 51 mins
-🎮 Slay the Spire 2                 🕘 1 hrs 29 mins
+🎮 Slay the Spire 2                 🕘 0 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
