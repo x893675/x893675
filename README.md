@@ -52,7 +52,7 @@ Other                    🕓 1h30m  ▋░░░░░░░░░░░░  5.
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Sekiro™: Shadows Die Twice       🕘 13 hrs 51 mins
+🎮 Sekiro™: Shadows Die Twice       🕘 10 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
