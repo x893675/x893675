@@ -49,7 +49,7 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 💻 Wallpaper Engine                 🕘 0 hrs 20 mins
-🎮 Forza Horizon 6                  🕘 20 hrs 42 mins
+🎮 Forza Horizon 6                  🕘 18 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
