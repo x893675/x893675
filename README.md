@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/02306cfa1b532bd1a8432087894ced2a" target="_blank">📊 每周工作报告</a>
 ```text
-Go              🕓 5h12m ███████▋░░░░░░░░░░░░░░░ 33.4%
-Protocol Buffer 🕓 3h23m ████▉░░░░░░░░░░░░░░░░░░ 21.7%
-Markdown        🕓 1h59m ██▉░░░░░░░░░░░░░░░░░░░░ 12.7%
-TypeScript      🕓 1h50m ██▋░░░░░░░░░░░░░░░░░░░░ 11.7%
-Python          🕓 1h12m █▊░░░░░░░░░░░░░░░░░░░░░  7.8%
+Go              🕓 6h55m ████████▍░░░░░░░░░░░░░░ 37.0%
+Markdown        🕓 3h11m ███▉░░░░░░░░░░░░░░░░░░░ 17.0%
+Protocol Buffer 🕓 3h3m  ███▊░░░░░░░░░░░░░░░░░░░ 16.3%
+Python          🕓 1h44m ██▏░░░░░░░░░░░░░░░░░░░░  9.3%
+TypeScript      🕓 1h24m █▋░░░░░░░░░░░░░░░░░░░░░  7.5%
 ```
 <!-- Powered by https://github.com/x893675/waka-box-go . -->
 <!-- waka-box end -->
