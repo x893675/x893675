@@ -54,6 +54,7 @@ TypeScript      🕓 1h39m  █░░░░░░░░░░░░░░░░�
 ```text
 🎮 Forza Horizon 6                  🕘 5 hrs 41 mins
 💻 Wallpaper Engine                 🕘 0 hrs 20 mins
+🎮 Darkest Dungeon®                 🕘 3 hrs 10 mins
 🎮 No Rest for the Wicked           🕘 0 hrs 40 mins
 🎮 Street Fighter™ 6 Demo           🕘 0 hrs 30 mins
 ```
