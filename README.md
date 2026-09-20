@@ -52,7 +52,8 @@ Bash            🕓 1h49m █▌░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Forza Horizon 6                  🕘 2 hrs 48 mins
+🎮 Shape of Dreams                  🕘 1 hrs 22 mins
+🎮 Forza Horizon 6                  🕘 1 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
