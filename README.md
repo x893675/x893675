@@ -54,6 +54,7 @@ Markdown                 🕓 16m   ▊░░░░░░░░░░░░░  
 ```text
 🎮 Shape of Dreams                  🕘 3 hrs 20 mins
 🎮 Dragon's Dogma 2                 🕘 6 hrs 8 mins
+🎮 Phantom Blade Zero               🕘 3 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
