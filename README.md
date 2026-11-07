@@ -53,8 +53,8 @@ Nginx configuration file 🕓 17m   ▍░░░░░░░░░░░░░  
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Shape of Dreams                  🕘 3 hrs 20 mins
+🎮 Phantom Blade Zero               🕘 12 hrs 12 mins
 🎮 Dragon's Dogma 2                 🕘 6 hrs 8 mins
-🎮 Phantom Blade Zero               🕘 3 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
