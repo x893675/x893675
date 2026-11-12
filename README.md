@@ -53,7 +53,7 @@ Nginx configuration file 🕓 17m   ▍░░░░░░░░░░░░░  
 #### <a href="https://gist.github.com/7643b2d2c095ae2572bdd1e1b729515f" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Forza Horizon 6                  🕘 1 hrs 28 mins
-🎮 Phantom Blade Zero               🕘 44 hrs 21 mins
+🎮 Phantom Blade Zero               🕘 47 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
